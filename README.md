@@ -1,2 +1,2 @@
 # zsh-alt-keys-config
-.zshrc file configuration that allows alt-arrow-keys navigation to still work
+When using https://ohmyz.sh/ you will find that `alt` keys movement won't work
