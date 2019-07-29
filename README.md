@@ -1,2 +1,7 @@
 # zsh-alt-keys-config
-When using https://ohmyz.sh/ you will find that `alt` keys movement won't work
+List of https://ohmyz.sh/ config commands to solve common issues / utilities. 
+
+## Covered for now:
+
+1. Alt keys movements in Terminal and Webstorm
+2. Show full path of your CWD
